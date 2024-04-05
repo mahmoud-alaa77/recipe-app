@@ -19,11 +19,11 @@ class HomeView extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Text(
-                "RECIPE ",
+                "RECIPE",
                 style: TextStyle(fontWeight: FontWeight.bold),
               ),
               Text(
-                "APP",
+                " APP",
                 style: TextStyle(
                     fontWeight: FontWeight.bold, color: kPrimaryColor),
               ),
