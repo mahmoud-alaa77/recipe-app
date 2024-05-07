@@ -1,10 +1,13 @@
-# food_app
-
-A new Flutter project.
-
+# **✨Recipe App✨**
+API Used In This Project : https://www.themealdb.com/api.php
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Reipe is more than just a recipe app.
+It's your culinary companion, empowering you to explore new flavors,
+cook with confidence, and make healthy eating a delicious and sustainable journey.
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
